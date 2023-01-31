@@ -1,0 +1,15 @@
+{
+  "first_name": "HIROSHI",
+  "middle_name": "ALEJANDRO",
+  "last_name": "COLONIA",
+  "second_last_name": "MURATA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "45239459",
+    "expiration_date": "23/04/2021",
+    "token_code": "59558802",
+    "document_type": "dni_1997_adult"
+  }
+}

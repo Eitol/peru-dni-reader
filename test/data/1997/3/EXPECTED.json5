@@ -1,0 +1,15 @@
+{
+  "first_name": "NORMAN",
+  "middle_name": "VALERY",
+  "last_name": "CASTILLO",
+  "second_last_name": "CEFERINO",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "45595333",
+    "expiration_date": "24/06/2029",
+    "token_code": "94119966",
+    "document_type": "dni_1997_adult"
+  }
+}

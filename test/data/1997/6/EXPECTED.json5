@@ -1,0 +1,15 @@
+{
+  "first_name": "",
+  "middle_name": "",
+  "last_name": "MERMA",
+  "second_last_name": "HUANCA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "41089065",
+    "expiration_date": "24/10/2021",
+    "token_code": "60621780",
+    "document_type": "dni_1997_adult"
+  }
+}

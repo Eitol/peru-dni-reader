@@ -1,0 +1,15 @@
+{
+  "first_name": "YONATAN",
+  "middle_name": "MANUEL",
+  "last_name": "COVE\u00d1AS",
+  "second_last_name": "LUNA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "75120955",
+    "expiration_date": "11/03/2029",
+    "token_code": "91282726",
+    "document_type": "dni_1997_adult"
+  }
+}

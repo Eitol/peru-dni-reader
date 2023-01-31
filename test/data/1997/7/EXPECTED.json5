@@ -1,0 +1,15 @@
+{
+  "first_name": "ANIBAL",
+  "middle_name": "STEVE DIEGO",
+  "last_name": "TICSE",
+  "second_last_name": "SOLIS",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "72229721",
+    "expiration_date": "05/09/2030",
+    "token_code": "98764672",
+    "document_type": "dni_1997_adult"
+  }
+}

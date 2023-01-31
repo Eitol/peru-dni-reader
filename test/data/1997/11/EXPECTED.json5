@@ -1,0 +1,15 @@
+{
+  "first_name": "",
+  "middle_name": "",
+  "last_name": "ANGASPILCO",
+  "second_last_name": "HERRERA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "27384086",
+    "expiration_date": "27/09/2026",
+    "token_code": "83759716",
+    "document_type": "dni_1997_adult"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_name": "JUAN",
+  "middle_name": "RICARDO",
+  "last_name": "RIVERA",
+  "second_last_name": "ORTEGA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "09391557",
+    "expiration_date": "23/04/2027",
+    "token_code": "85963006",
+    "document_type": "dni_1997_adult"
+  }
+}

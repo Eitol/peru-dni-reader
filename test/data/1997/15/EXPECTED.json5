@@ -1,0 +1,15 @@
+{
+  "first_name": "YAJAIRA",
+  "middle_name": "MISHEL",
+  "last_name": "DIAZ",
+  "second_last_name": "SANCHEZ",
+  "birth_date": null,
+  "gender": "F",
+  "location": null,
+  "document_info": {
+    "document_number": "72051127",
+    "expiration_date": "10/06/2022",
+    "token_code": "67543766",
+    "document_type": "dni_1997_adult"
+  }
+}

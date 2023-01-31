@@ -1,0 +1,15 @@
+{
+  "first_name": "DANIEL",
+  "middle_name": "IVAN",
+  "last_name": "MAMANI",
+  "second_last_name": "MALDONADO",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "40650120",
+    "expiration_date": "13/11/2027",
+    "token_code": "88140032",
+    "document_type": "dni_1997_adult"
+  }
+}

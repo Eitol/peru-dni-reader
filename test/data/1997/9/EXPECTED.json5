@@ -1,0 +1,15 @@
+{
+  "first_name": "ISABEL",
+  "middle_name": "JHAHAIRA",
+  "last_name": "LLUCHO",
+  "second_last_name": "GONZALES",
+  "birth_date": null,
+  "gender": "F",
+  "location": null,
+  "document_info": {
+    "document_number": "75086083",
+    "expiration_date": "03/07/2026",
+    "token_code": "82369764",
+    "document_type": "dni_1997_adult"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_name": "CHRISTIAN",
+  "middle_name": "HECTOR",
+  "last_name": "ZEGARRA",
+  "second_last_name": "CHAVEZ",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "44207780",
+    "expiration_date": "07/05/2027",
+    "token_code": "87260131",
+    "document_type": "dni_1997_adult"
+  }
+}

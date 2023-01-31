@@ -1,0 +1,15 @@
+{
+  "first_name": "CHRISTIAN",
+  "middle_name": "FRANK",
+  "last_name": "GOMEZ",
+  "second_last_name": "HUANCA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "72893688",
+    "expiration_date": "08/03/2018",
+    "token_code": "43361172",
+    "document_type": "dni_1997_adult"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_name": "JULIO",
+  "middle_name": "CESAR",
+  "last_name": "CADENAS",
+  "second_last_name": "HENOSTROZA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "71038959",
+    "expiration_date": "04/12/2026",
+    "token_code": "84903414",
+    "document_type": "dni_1997_adult"
+  }
+}

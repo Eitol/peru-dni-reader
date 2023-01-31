@@ -1,0 +1,15 @@
+{
+  "first_name": "EDGARD",
+  "middle_name": "ORLANDO",
+  "last_name": "REA\u00d1O",
+  "second_last_name": "PAIRAZAMAN",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "05644784",
+    "expiration_date": "09/12/2021",
+    "token_code": "61877895",
+    "document_type": "dni_1997_adult"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "first_name": "",
+  "middle_name": "",
+  "last_name": "ESPINOZA",
+  "second_last_name": "ANQUIPA",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "41166332",
+    "expiration_date": "20/12/2020",
+    "token_code": "58022422",
+    "document_type": "dni_1997_adult"
+  }
+}

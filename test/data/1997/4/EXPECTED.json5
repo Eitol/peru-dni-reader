@@ -1,0 +1,15 @@
+{
+  "first_name": "EDUARDO",
+  "middle_name": "ELIAS",
+  "last_name": "ESPINOZA",
+  "second_last_name": "LOPEZ",
+  "birth_date": null,
+  "gender": "M",
+  "location": null,
+  "document_info": {
+    "document_number": "70768940",
+    "expiration_date": "23/08/2024",
+    "token_code": "73621909",
+    "document_type": "dni_1997_adult"
+  }
+}
